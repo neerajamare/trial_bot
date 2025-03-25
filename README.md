@@ -1,7 +1,23 @@
-## Robot Package Template
+My First ROS2 Robotics Project
+Welcome to my first-ever Git repository! This project is part of my journey to learn and enhance my skills in ROS2 (Robot Operating System 2) and Robotics.
 
-This is a GitHub template. You can make your own copy by clicking the green "Use this template" button.
+Project Overview
+In this repository, I’ll be building a project from scratch, following along with a series of tutorials by Articulated Robotics on YouTube. My goal is to learn key concepts in ROS2 and robotics while applying them to this project. I’ll be adding my own unique features and customizations as I progress.
 
-It is recommended that you keep the repo/package name the same, but if you do change it, ensure you do a "Find all" using your IDE (or the built-in GitHub IDE by hitting the `.` key) and rename all instances of `trial_bot` to whatever your project's name is.
+Approach
+Initially, the project will be developed entirely within simulations, allowing me to focus on understanding the core concepts before transitioning to hardware-based models later on. This provides a great opportunity to experiment, learn, and iterate without the constraints of physical robots.
 
-Note that each directory currently has at least one file in it to ensure that git tracks the files (and, consequently, that a fresh clone has direcctories present for CMake to find). These example files can be removed if required (and the directories can be removed if `CMakeLists.txt` is adjusted accordingly).
+What’s Included
+ROS2 setup and configuration
+
+Simulation-based models and environment
+
+Custom features and improvements beyond the tutorial content
+
+Potential future expansions to hardware (once I'm ready!)
+
+Join the Adventure!
+This is a fun and exciting adventure of learning while doing! If you’re interested in ROS2, robotics, or just enjoy following along with projects like this, tag along and feel free to contribute, suggest improvements, or simply watch the progress unfold.
+
+Let’s dive into the world of robotics together!
+
